@@ -1,4 +1,4 @@
-<---- Ans of the Question No 1: ---->
+<---- Ans of the Q No 1: ---->
 Difference between getElementById, getElementsByClassName, querySelector and querySelectorAll
 
 getElementById ---> by this we can select a single element with id. a id given only one time. i.e. one id for one elements. two or more elements cannot bear same id. So, getElementById select a single element and return a single element. 
